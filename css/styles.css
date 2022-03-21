@@ -2,24 +2,24 @@
     height: 70px;   
   }
 
-  #home {
+  #landing {
     background-image: url(../images/favicon4.avif);
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
   }
-  #home-space {
+  #landing-page {
     height: 660px;
     color: #fe8e0d;
   }
-  #home-h1 {
+  #landing-h1 {
     text-align: center;
     padding-left: 68%;
     padding-top: 18%;
     font-size: xx-large;
   }
   #order {
-    background-color: #fe8e0d;
+    background-color: #fcdfbe;
   }
   #h2 {
     height: 80px;
@@ -46,26 +46,20 @@
   li {
     list-style: none;
   }
-  #contact-footer {
-    background-color: #202020;
-    color: white;
-    text-align: center;
-    height: 120px;
-    padding: 1%;
-  }
+  
   @media only screen and (max-width: 670px) {
-    #home-h1 {
+    #landing-h1 {
       display: none;
     }
-    #home {
+    #landing {
       height: 150px;
     }
   }
   @media only screen and (min-width: 330px) and (max-width: 670px) {
-    #home-h1 {
+    #landing-h1 {
       display: none;
     }
-    #home {
+    #landing {
       height: 350px;
     }
     #h2 {
@@ -74,10 +68,10 @@
   }
   
   @media only screen and (min-width: 670x) and (max-width: 800px) {
-    #home-h1 {
+    #landing-h1 {
       display: none;
     }
-    #home {
+    #landing {
       height: 350px;
     }
   }
