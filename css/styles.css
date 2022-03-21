@@ -10,24 +10,30 @@
   }
   #landing-page {
     height: 660px;
-    color: #fe8e0d;
+    
   }
   #landing-h1 {
     text-align: center;
-    padding-left: 68%;
-    padding-top: 18%;
-    font-size: xx-large;
+    padding-top: 10%;
+    font-size:xx-large;
     font-family: Arial, Helvetica, sans-serif;
+    color: #fe8e0d;
   }
+  
   #order {
     background-color: #fcdfbe;
   }
   #h2 {
+    text-align: center;
     height: 80px;
-    font-size: larger;
-    color: white;
+    
+    font-size:xx-large;
     background-color: #202020;
     padding: 2%;
+    color: #fe8e0d;    
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #menu {
     font-family: Arial, Helvetica, sans-serif;
   }
   #size,
