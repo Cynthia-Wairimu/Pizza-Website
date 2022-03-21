@@ -1,11 +1,12 @@
-nav {
-    height: 80px;
+  .navbar{
+    height: 70px;   
   }
+
   #home {
     background-image: url(../images/favicon4.avif);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 800px;
   }
   #home-space {
     height: 660px;

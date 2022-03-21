@@ -1,5 +1,5 @@
-## Delani Studio Website.
-This is a web application exercise that was intended to help students practice and understand concepts on bootstrap and jQuery to recreate a landing page for a fictional studio.  {15/03/2020}
+## Pizza Hub Website.
+This is a web application exercise that was intended to help students practice and understand concepts on bootstrap and jQuery to recreate a landing page for a fictional studio.  {22/03/2020}
 #### By **Cynthia Wairimu**
 ## Description
 This is a web application exercise that was intended to help students practice and understand concepts on bootstrap and jQuery to recreate a landing page for a fictional studio.
@@ -18,11 +18,12 @@ This is a web application exercise that was intended to help students practice a
 * HTML
 * CSS
 * JavaScript
+* Bootstrap 5
 ## Support and contact details
 if you have any concerns or questions, please feel free to contact me or make a contribution to the code. my email is wairimucee@gmail.com. 
 
 ## Link to GitHub pages
-https://cynthia-wairimu.github.io/Delani-Studio/
+
 
 ### License
 *MIT licensing.*
