@@ -2,7 +2,7 @@
 This is a web application where customers order different sizes of pizzas with one or more toppings.  {22/03/2020}
 #### By **Cynthia Wairimu**
 ## Description
-This is a web application exercise that was intended to help students practice and understand concepts on bootstrap and jQuery to recreate a landing page for a fictional studio.
+This is a web application where customers order different sizes of pizzas with one or more toppings, they have an option to order as many pizzas, whether they want the pizza delivered or not and how much that would cost them.
 ## Setup/Installation Requirements
 * Create a portfolio directory/ folder then initialize git in the terminal
 * In the new directory create an index.html file.
