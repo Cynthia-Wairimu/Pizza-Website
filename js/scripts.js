@@ -21,7 +21,8 @@ $(document).ready(function() {
         let total = parseInt(sizeOfPizza) + parseInt(toppingsOfPizza) + parseInt(crustOfPizza);
         let order = 1;
         let grandTotal = 0;
-        //adjustments for size of pizza
+
+        //alterations for size of pizza
         if (sizeOfPizza === "400"){
           total += 200; //crust (+100) & toppings(+100) adjustment for medium pizza
         } else if (sizeOfPizza === "600"){
@@ -48,7 +49,8 @@ $(document).ready(function() {
             let toppingsOfPizza = $(".toppings option:selected").val();
             let crustOfPizza = $(".crust option:selected").val();
             let total = parseInt(sizeOfPizza) + parseInt(toppingsOfPizza) + parseInt(crustOfPizza);
-                  //adjustments for size of pizza
+            
+                  //alterations for size of pizza
             if (sizeOfPizza === "400"){
               total += 200; //crust (+100) & toppings(+100) adjustment for medium pizza
             } else if (sizeOfPizza === "600"){
