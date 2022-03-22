@@ -1,5 +1,5 @@
 ## Pizza Hub Website.
-This is a web application exercise that was intended to help students practice and understand concepts on bootstrap and jQuery to recreate a landing page for a fictional studio.  {22/03/2020}
+This is a web application where customers order different sizes of pizzas with one or more toppings.  {22/03/2020}
 #### By **Cynthia Wairimu**
 ## Description
 This is a web application exercise that was intended to help students practice and understand concepts on bootstrap and jQuery to recreate a landing page for a fictional studio.
